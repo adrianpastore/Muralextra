@@ -5,13 +5,9 @@ div.container{
 .container h1{
   margin-bottom: 30px;
 }
-div#tabela{
+table#table{
   width: 900px;
   height: 300px;
-}
-table#table{
-  width: 100%;
-  height: 85%;
   margin-top: 20px;
   margin-bottom: 10px;
   border-style:outset;
