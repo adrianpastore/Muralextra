@@ -1,0 +1,29 @@
+div.container{
+  margin-top: 50px;
+  margin-left: 100px;
+}
+.container h1{
+  margin-bottom: 30px;
+}
+div#tabela{
+  width: 900px;
+  height: 300px;
+}
+table#table{
+  width: 100%;
+  height: 85%;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  border-style:outset;
+  border-color: #8a2222;
+  border-width: medium;
+}
+#table caption{
+  font-size: 20px;
+  text-align: left;
+}
+
+#table .td{
+  border-style: ridge;
+  border-color: #074ec6;
+}
